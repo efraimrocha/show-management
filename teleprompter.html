@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Teleprompter</title>
+    <link rel="stylesheet" href="/src/css/teleprompter.css">
+    <link rel="stylesheet" href="src/css/style.css">
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+   
+    <!-- <style>
+        body {
+            background-color: #000;
+            color: #fff;
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+        }
+        .teleprompter {
+            margin: 15px;
+            width: 80%;
+            height: 70vh;
+            overflow: hidden;
+            border: 2px solid #fff;
+            padding: 20px;
+            text-align: center;
+            font-size: 2rem;
+            line-height: 1.5;
+        }
+        .content {
+            position: relative;
+        }
+        .btn-inicio a {
+            text-decoration: none;
+        }
+    </style> -->
+</head>
+
+
+<body class="body-teleprompter">
+    <div class="teleprompter">
+        <div class="content">
+            <p>Quando oiei' a terra ardendo<br>
+                Qual fogueira de São João<br>
+                Eu preguntei' a Deus do céu, uai<br>
+                Por que tamanha judiação?<br>
+                Eu preguntei' a Deus do céu, uai<br>
+                Por que tamanha judiação?<br>
+            </p>
+            <br>
+            <p>
+                Que braseiro, que fornaia'<br>
+                Nenhum pé de prantação'<br>
+                Por farta' d'água perdi meu gado<br>
+                Morreu de sede meu alazão<br>
+                Por farta' d'água perdi meu gado<br>
+                Morreu de sede meu alazão<br>
+            </p>
+            <br>
+            <p>
+                Inté' mesmo a asa branca<br>
+                Bateu asas do sertão<br>
+                Entonce' eu disse: adeus, Rosinha<br>
+                Guarda contigo meu coração<br>
+                Entonce' eu disse: adeus, Rosinha<br>
+                Guarda contigo meu coração<br>
+            </p>
+            <br>
+        </div>
+    </div>
+        <button id="btn-inicio" class="btn btn-primary"><a href="index.html" class="link-btn-menu">Início</a></button>
+
+
+    <div class="controls mt-3">
+        <button class="btn btn-success" id="start">Start</button>
+        <button class="btn btn-secondary" id="pause">Pause</button>
+        <button class="btn btn-danger" id="reset">Reset</button>
+        
+        <br>
+        <label for="speed" class="form-label">Speed:</label>
+        <input type="range" id="speed" min="1" max="10" value="5">
+
+    </div>
+
+    <script src="src/js/teleprompter.js"></script>
+    <script src="https://code.jquery.com/jquery-3.6.0.min.js"></script>
+    
+    
+</body>
+</html>
