@@ -1,3 +1,6 @@
+<p>Este repositório não contém o aplicativo oficial, mas sim ideias e conceitos para os micro serviços que o projeto irá contemplar. Até o presente momento, este repositório serve como um brainstorming e um espaço para coletar e desenvolver sugestões para futuras implementações.</p>
+
+
 ## Visão Geral
 O sistema de gerenciamento de shows ao vivo é uma plataforma integrada que oferece uma solução completa para músicos, bandas, produtores musicais, estúdios de gravação e organizadores de eventos. Ele facilita a gestão de todos os aspectos técnicos e logísticos de shows ao vivo, permitindo uma execução mais eficiente e profissional dos eventos.
 
