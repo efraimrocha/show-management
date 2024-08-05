@@ -1,3 +1,4 @@
+## Aviso Importante
 <p>Este repositório não contém o aplicativo oficial, mas sim ideias e conceitos para os micro serviços que o projeto irá contemplar. Até o presente momento, este repositório serve como um brainstorming e um espaço para coletar e desenvolver sugestões para futuras implementações.</p>
 
 
