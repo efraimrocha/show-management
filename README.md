@@ -1,7 +1,7 @@
-Visão Geral
+##Visão Geral
 O sistema de gerenciamento de shows ao vivo é uma plataforma integrada que oferece uma solução completa para músicos, bandas, produtores musicais, estúdios de gravação e organizadores de eventos. Ele facilita a gestão de todos os aspectos técnicos e logísticos de shows ao vivo, permitindo uma execução mais eficiente e profissional dos eventos.
 
-Principais Benefícios
+##Principais Benefícios
 Gestão Centralizada
 
 Tudo em um único lugar: Centralize todas as informações e processos relacionados a shows ao vivo em uma plataforma unificada.
@@ -38,5 +38,6 @@ Conversão de Cenas: A funcionalidade de conversão de cenas de mesas de som per
 Colaboração e Comunicação
 
 Real-time Collaboration: A capacidade de colaboração em tempo real melhora a comunicação e coordenação entre todos os membros da equipe, garantindo que todos estejam na mesma página.
-Conclusão
+
+##Conclusão
 A proposta de valor do sistema de gerenciamento de shows ao vivo é proporcionar uma solução abrangente e integrada que facilita a gestão de shows, melhora a comunicação e colaboração entre a equipe, e oferece ferramentas avançadas para garantir uma performance impecável. Com funcionalidades inovadoras como conversão de cenas de mesas de som e teleprompt integrado, a plataforma se destaca como uma solução indispensável para profissionais da indústria musical que buscam eficiência, profissionalismo e excelência na execução de seus eventos ao vivo.
